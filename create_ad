@@ -24,8 +24,8 @@
 			</div>
 			<div>
 				<input type="file" name="Foto" multiple accept="image/*">
+				<p><button>Создать объявление</button></p>
 			</div>
-			<button>Создать объявление</button>
 		</form>
 	</main>
 </body>
