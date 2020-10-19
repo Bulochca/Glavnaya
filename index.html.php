@@ -3,11 +3,12 @@
 <head>
 	<meta charset="utf-8">
 	<title>Доска объявлений</title>
+	<link rel="stylesheet" href="style.css">
 </head>
 <body>
 	<header>
 		<div>
-			<img src="image/logo.png">
+			<img src="image/logo.png" width="90" height="100">
 			<div>
 				<button>
 					<a href="account.php">Личный кабинет</a>
